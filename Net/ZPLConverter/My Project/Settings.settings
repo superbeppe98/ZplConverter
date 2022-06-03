@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="NomeApp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ZPLConverter</Value>
+    </Setting>
+    <Setting Name="Funzione" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DirLocale" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Dati\VB\ZPLConverter\</Value>
+    </Setting>
+    <Setting Name="LogFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Dati\VB\ZPLConverter\ZPLConverter.log</Value>
+    </Setting>
+    <Setting Name="RiepFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Dati\VB\ZPLConverter\ZPLConverter_Riep.log</Value>
+    </Setting>
+    <Setting Name="DirInput" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Dati\VB\ZPLConverter\Input\</Value>
+    </Setting>
+    <Setting Name="DirOutput" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Dati\VB\ZPLConverter\Output\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
